@@ -4,7 +4,7 @@
 
 # 💫 Sobre mi:
 
-Soy ingeniero de software engresado en el año 2023 con más de 1 año de experiencia como desarrollador full stack. Actualmente me encuentro trabajando en [<img src="https://facturacion.cl/img/Facturacion.png" width="25px"></img><strong >Facturacion.cl</strong>](https://facturacion.cl) desempeñando labores <strong>Full Stack</strong> y base de datos <strong>PostgreSQL</strong>.
+Soy <strong>Ingeniero de software</strong> engresado en el año 2023 con más de 1 año de experiencia como desarrollador <strong>Full Stack.</strong> Actualmente me encuentro trabajando en [<img src="https://facturacion.cl/img/Facturacion.png" width="25px"></img><strong >Facturacion.cl</strong>](https://facturacion.cl) desempeñando labores <strong>Full Stack</strong> y base de datos <strong>PostgreSQL</strong>.
 Actualmente, estoy buscando espandir mis horizontes para poder seguir con mi camino como profesional del mundo TI.
 
 
