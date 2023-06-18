@@ -1,4 +1,4 @@
-# ¡Hola! Me llamo Marco Peña
+# ¡Hola! Me llamo Marco Peña 👋
 ### Full Stack Developer
 
 
