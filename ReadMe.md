@@ -4,7 +4,7 @@
 
 # 💫 Sobre mi:
 
-Soy <strong>Ingeniero de software</strong> egresado en el año 2023 con más de 1 año de experiencia como desarrollador <strong>Full Stack.</strong> Actualmente me encuentro trabajando en [<img src="https://facturacion.cl/img/Facturacion.png" width="25px"></img><strong >Facturacion.cl</strong>](https://facturacion.cl) donde ejerzo como desarrollador <strong>Full Stack</strong> utilizando tecnologías como PHP, HTML5, JavaScript, CSS y PostgreSQL.
+Soy <strong>Ingeniero de software</strong> egresado en el año 2023 con más de 1 año de experiencia como desarrollador <strong>Full Stack.</strong> Actualmente me encuentro trabajando en [<img src="https://facturacion.cl/img/Facturacion.png" width="25px"><strong >Facturacion.cl</strong>](https://facturacion.cl) donde ejerzo como desarrollador <strong>Full Stack</strong> utilizando tecnologías como PHP, HTML5, JavaScript, CSS y PostgreSQL.
 Sin embargo, estoy buscando expandir mis horizontes profesionales. Estoy decidido a seguir desafiándome y alcanzar nuevas metas en mi carrera.
 
 
